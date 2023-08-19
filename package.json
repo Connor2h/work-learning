@@ -6,10 +6,11 @@
   "repository": "git@github.com:Connor2h/work-learning.git",
   "author": "Connor2h <connorhollis3d@gmail.com>",
   "license": "MIT",
-  "workspaces":[
-
-  ],
-  "scripts": {
-    
+  "private": "true",
+  "workspaces": [],
+  "scripts": {},
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.0"
   }
 }
