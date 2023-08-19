@@ -1,0 +1,15 @@
+{
+  "name": "my-work-learning",
+  "version": "1.0.0",
+  "description": "A place to practice what I have learned",
+  "main": "index.js",
+  "repository": "git@github.com:Connor2h/work-learning.git",
+  "author": "Connor2h <connorhollis3d@gmail.com>",
+  "license": "MIT",
+  "workspaces":[
+
+  ],
+  "scripts": {
+    
+  }
+}
